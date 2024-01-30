@@ -1,4 +1,7 @@
-### Hi there 👋
+ ___     _   _             ___ ___ 
+| __|_ _| |_| |_ ___ _ _  |_  )_  )
+| _/ _` | / /  _/ _ \ '_|  / / / / 
+|_|\__,_|_\_\\__\___/_|   /___/___|
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -14,6 +17,7 @@
 
 Here are some ideas to get you started:
 
+- ### Hi there 👋
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=faktor22.visitor-badge)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
