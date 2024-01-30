@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=faktor22.visitor-badge)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=faktor22.faktor22)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```text
 🌞 Morning                402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
@@ -15,6 +14,7 @@
 
 Here are some ideas to get you started:
 
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=faktor22.visitor-badge)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
