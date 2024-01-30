@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Faktor22)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=faktor22.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=faktor22.faktor22)
 
 ```text
 🌞 Morning                402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
