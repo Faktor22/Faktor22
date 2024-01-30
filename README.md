@@ -6,18 +6,17 @@
 
 Check my work @faktor22.nl
 ```
+My approach to global collaboration with clients is characterized by empathy and openness. My work revolves around three core values: quality, sustainability, and delivering maximum value. I consciously choose a thoughtful approach over rushed work and price competition.
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C561%20hrs%2059%20mins-blue)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Check](https://img.shields.io/badge/Check%20Faktor%2022-216bd6)](https://faktor22.nl)
 
 ```text
-🌞 Morning                402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-🌆 Daytime                1700 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
-🌃 Evening                1412 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
-🌙 Night                  826 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+🌆 Daytime                1700 commits        ██████████░░░░░░░░░░░░░░░   39.27 % 
+🌃 Evening                1850 commits        ████████████░░░░░░░░░░░░░   41.53 % 
+🌙 Night                  826 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 ```
-
 
 ## ⚡ Stack
 
