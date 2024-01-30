@@ -7,7 +7,7 @@
 Check my work @faktor22.nl
 ```
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C561%20hrs%2059%20mins-blue)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```text
